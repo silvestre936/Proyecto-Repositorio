@@ -10,7 +10,8 @@ function departamentos(){
   "CONTABILIDAD",
   "INMOBILIARIA",
   "MERCADOTECNIA",
-  "TECNOLOGIAS DE INFORMACION"];
+  "TECNOLOGIAS DE INFORMACION",
+  "CEDEVI"];
   var contenido = "";
 
   for (var i = 0; i < boxes.length; i++){
